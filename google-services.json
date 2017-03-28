@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "609305970381",
+    "firebase_url": "https://notificacionesfirebase-86454.firebaseio.com",
+    "project_id": "notificacionesfirebase-86454",
+    "storage_bucket": "notificacionesfirebase-86454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609305970381:android:6e485be295d29cc6",
+        "android_client_info": {
+          "package_name": "com.firebase.fixtergeek.notificacionesfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609305970381-98u2cp0eajt7177vd67c4emifsl9o5tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByUEh0PStntBIkGY9GTo-wQDVPd9fv06w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
